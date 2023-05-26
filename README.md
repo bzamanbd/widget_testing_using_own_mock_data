@@ -18,11 +18,11 @@ For testing all the widgets in HomeScreen...
 
 Step 1: In 'test' directory create a test file named home_screen_test.dart
 
-Step 2: Create main function
+Step 2: Create main function of our app here again
 
 Step 3: In the main function call testWidgets method which is provided by the default flutter dev_dependencies called 'flutter_test'.
 
-Step 4: Create a smoke list of PostModel named smokePostList
+Step 4: Create our own smoke list of PostModel named smokePostList
 
 Step 5: Create a smoke future fetch method named fetchSmokePosts with Future.delayed() to wait and fetch the data of smokePostList
 
@@ -36,6 +36,8 @@ that's all
 
 thanks to all of you my loving Flutter Devs.
 happy coding......
+
+![output](https://github.com/bzamanbd/widget_testing_using_own_mock_data/assets/90719674/0720c1ee-2a53-487c-888f-f8af43070559)
 
 
 
