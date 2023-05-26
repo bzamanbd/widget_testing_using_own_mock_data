@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:widget_testing_using_mocktail/home_screen.dart';
-import 'package:widget_testing_using_mocktail/post_model.dart';
+import 'package:widget_testing_using_ownmock_data/home_screen.dart';
+import 'package:widget_testing_using_ownmock_data/post_model.dart';
 
 void main() {
   //formula GIVEN,WHEN,THEN//

@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:widget_testing_using_mocktail/post_model.dart';
 import 'package:http/http.dart' as http;
+import 'package:widget_testing_using_ownmock_data/post_model.dart';
 
 class PostModelRepository {
   final _url = 'https://jsonplaceholder.typicode.com/posts';

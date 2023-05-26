@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widget_testing_using_mocktail/post_model.dart';
-import 'package:widget_testing_using_mocktail/single_post_details.dart';
+import 'package:widget_testing_using_ownmock_data/post_model.dart';
+import 'package:widget_testing_using_ownmock_data/single_post_details.dart';
 
 class HomeScreen extends StatelessWidget {
   final Future<List<PostModel>> postListFromApi;

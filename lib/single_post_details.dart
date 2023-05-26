@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_testing_using_mocktail/post_model.dart';
+import 'package:widget_testing_using_ownmock_data/post_model.dart';
 
 class SinglePostDetails extends StatelessWidget {
   final PostModel post;
